@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/70734883/160162075-3f871db0-bf10-4a5c-ba8c-a8008c021c7e.png)
 
-I'm a current student at the University of Memphis studying computer science. I have worked on a little bit of everything from backend apis, web development, natural language processing, and some command line interface programs.
+I'm a current student at the University of Memphis studying computer science. I have worked on a little bit of everything from backend apis, web development, natural language processing, and command line interface programs.
 
 Right now I'm currently splitting my time between React and building a programming language. 
 
