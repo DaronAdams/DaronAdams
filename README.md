@@ -2,8 +2,8 @@
 <br><br>
 <pre>
     💼 BSC @ UofM • Software Engineer • SWE @ Big Tech
-    💻 Java • TypeScript • Rust • C
-    📖 Clean Code • Distributed systems
+    💻 Java • TypeScript • Ruby • Python
+    📖 Designing Data Intensive Applications • Pragmatic Programmer
 </pre>
 <br><br>
 </div>
