@@ -1,9 +1,8 @@
 <div align="center"
 <br><br>
 <pre>
-    💼 BSC @ UofM • Software Engineer • SWE @ Big Tech
-    💻 Java • TypeScript • Ruby • Python • C • Zig
-    📖 Designing Data Intensive Applications • Pragmatic Programmer
+    💼 BSC @ UofM • Software Engineer • SWE2 @ Amazon
+    Currently hacking away on a compiler/game dev. 
 </pre>
 <br><br>
 </div>
